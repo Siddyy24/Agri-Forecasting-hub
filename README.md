@@ -63,26 +63,26 @@ Set the API key in your environment: export OPENWEATHER_API_KEY=your_key<br>
 Or update directly in weather_api.py (not recommended for production)
 
 Sample Prediction
-Input:
+Input:<br>
 {
-"state": "Punjab",
-"N": 180,
-"P": 45,
-"K": 200,
-"pH": 6.8,
-"avg_temp_c": 26.5,
-"total_rainfall_mm": 950,
-"avg_humidity_percent": 60
-}
-Output:
+"state": "Punjab",<br>
+"N": 180,<br>
+"P": 45,<br>
+"K": 200,<br>
+"pH": 6.8,<br>
+"avg_temp_c": 26.5,<br>
+"total_rainfall_mm": 950,<br>
+"avg_humidity_percent": 60<br>
+}<br>
+Output:<br>
 
-{
-"prediction": 3225.0,
-"yield_category": "Good Yield",
-"irrigation": "⚠️ Monitor closely: 31.7 mm rainfall (barely sufficient)",
-"crop_cycle": "🌾 Rice/Maize → Plant in Jun-Jul, Harvest in Oct-Nov",
-"soil_health": {...},
-"weather_risks": {...}
+{<br>
+"prediction": 3225.0,<br>
+"yield_category": "Good Yield",<br>
+"irrigation": "⚠️ Monitor closely: 31.7 mm rainfall (barely sufficient)",<br>
+"crop_cycle": "🌾 Rice/Maize → Plant in Jun-Jul, Harvest in Oct-Nov",<br>
+"soil_health": {...},<br>
+"weather_risks": {...}<br>
 }<br>
 
  Future Scope:<br>
@@ -96,9 +96,9 @@ Output:
 This project is licensed under the MIT License — feel free to use or modify with credit.
 
 
- Contributions
-Aarohi Shinde-Aarohicodes
-Swami Lande-swamilande
-Siddhi Belekar-Siddy24
-Akash wagh-akshawagh07
+ Contributions<br>
+Aarohi Shinde-Aarohicodes<br>
+Swami Lande-swamilande<br>
+Siddhi Belekar-Siddy24<br>
+Akash wagh-akshawagh07<br>
 
