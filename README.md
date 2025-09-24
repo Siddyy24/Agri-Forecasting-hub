@@ -10,7 +10,7 @@ A Flask-based web application for agricultural forecasting that provides weather
 
  ## Project Structure
  
- agri_forecast/
+ agri_forecast/<br>
 ├── app.py                 # Main Flask application <br>
 ├── weather_api.py         # Weather API integration <br>
 ├── forecast_model.py      # ML model for yield prediction <br>
