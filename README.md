@@ -11,15 +11,15 @@ A Flask-based web application for agricultural forecasting that provides weather
  ## Project Structure
  
  agri_forecast/
-├── app.py                 # Main Flask application
-├── weather_api.py         # Weather API integration
-├── forecast_model.py      # ML model for yield prediction
+├── app.py                 # Main Flask application <br>
+├── weather_api.py         # Weather API integration <br>
+├── forecast_model.py      # ML model for yield prediction <br>
 ├── templates/
-│   └── index.html         # Dashboard HTML template
+│   └── index.html         # Dashboard HTML template<br>
 ├── data/
-│   └── sample_yield.csv   # Sample dataset for training
-├── requirements.txt       # Python dependencies
-└── README.md             # This file
+│   └── sample_yield.csv   # Sample dataset for training<br>
+├── requirements.txt       # Python dependencies<br>
+└── README.md             # This file<br>
 
 ## Installation & Setup
 
@@ -108,10 +108,10 @@ The dashboard uses a green agriculture theme. Modify the CSS in templates/index.
 
 ## Troubleshooting
 ### Common Issues 
-1.*Import Errors*.Ensure all dependencies are installed
-2.*Data Loading*.Check that data/sample_yield.csv exists
-3. *Weather API*: Verify API key is set correctly
-4. *Port Issues*: Change port in app.py if 5000 is occupied
+1.*Import Errors*.Ensure all dependencies are installed <br>
+2.*Data Loading*.Check that data/sample_yield.csv exists <br>
+3. *Weather API*: Verify API key is set correctly <br>
+4. *Port Issues*: Change port in app.py if 5000 is occupied <br>
 
 ### Debug Mode
 The application runs in debug mode by default. For production:
