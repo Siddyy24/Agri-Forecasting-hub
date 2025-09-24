@@ -2,7 +2,7 @@
 
 This project predicts crop yield using machine learning based on soil nutrient levels and weather conditions. It also provides smart recommendations like irrigation advice, crop cycle suggestions, and weather risk assessments to assist farmers and agricultural planners.
 
-📌 Features
+📌 Features<br>
 ✅ Predict crop yield using soil NPK & pH + temperature, rainfall, humidity<br>
 ✅ Dynamic dashboard with form inputs and visual feedback<br>
 ✅ Mock/Real-time weather API integration<br>
